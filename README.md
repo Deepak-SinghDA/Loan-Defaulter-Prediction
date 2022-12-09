@@ -2,7 +2,7 @@
 - * In this, I am  going to cover how to implement a loan approval prediction system using Python. This  will help you to understand what is a loan approval prediction system, also will do a hands-on lab demo to implement a loan approval prediction system using python.
 - * What is a loan prediction system? 
 - * A mechanism called the Loan Prediction System allows you to apply for loans and receive notifications when they are approved. By the data provided by the applicant, the system notifies the applicant of the loan's availability.
-+ Model |	Accuracy
+## Model |	Accuracy
 + --- | ---
 + Random Forest Classifier	|78.86
 + Naïve Bayes	              |82.93
