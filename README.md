@@ -10,11 +10,11 @@
 - Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
 
 ## Model |	Accuracy
-+ --- | ---
-+ Random Forest Classifier	|78.86
-+ Naïve Bayes	              |82.93
-+ Decision Tree Classifier	|67.48
-+ K Neighbors Classifier	    |77.40
++ ---    | ---
++ Random Forest Classifier	   |78.86
++ Naïve Bayes	                 |82.93
++ Decision Tree Classifier	   |67.48
++ K Neighbors Classifier	     |77.40
 ## Technologies:
 + 	Programming Language: Python
 +   Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
