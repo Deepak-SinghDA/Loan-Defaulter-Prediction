@@ -1,4 +1,4 @@
-+ # Loan-Defaulter-Prediction
++ # *Loan-Defaulter-Prediction*
    - In this, I am  going to cover how to implement a loan approval prediction system using Python. 
    - This  will help you to understand what is a loan approval prediction system, also will do a hands-on lab demo to implement a loan approval prediction system using python.
    - What is a loan prediction system? 
